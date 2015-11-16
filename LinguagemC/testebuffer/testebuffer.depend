@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1446000703 source:/home/matheus/Documentos/LinguagemC/testebuffer/main.c
+	<stdio.h>
+	<stdlib.h>
+

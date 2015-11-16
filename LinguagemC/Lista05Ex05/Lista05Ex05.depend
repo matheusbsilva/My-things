@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1446509112 source:/home/matheus/Documentos/LinguagemC/Lista05Ex05/main.c
+	<stdio.h>
+	<stdlib.h>
+

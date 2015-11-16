@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1446550203 source:/home/matheus/Documentos/LinguagemC/ProvaMemória/main.c
+	<stdio.h>
+	<stdlib.h>
+
